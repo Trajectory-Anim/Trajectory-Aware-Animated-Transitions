@@ -1,0 +1,7 @@
+*.pyc
+data/
+experiment/
+.vscode/
+*.mp4
+*.obj
+*.o

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\VIS\box2d\CMakeFiles\590908c7c3da7ceea4b6d3d1bad6c19a\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{76FC3954-F2CF-3460-B0D6-852D0034B15D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
